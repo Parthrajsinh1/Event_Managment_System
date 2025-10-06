@@ -39,8 +39,4 @@ This repository contains the backend service for an Event Management System. It 
 * Optional: Springdoc OpenAPI (Swagger) for interactive API docs
 
 
-HTTP -> Controller -> Service -> Repository -> MySQL
-```
-
----
 
